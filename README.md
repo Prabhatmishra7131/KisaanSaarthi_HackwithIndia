@@ -38,6 +38,7 @@ Our project aims to address the significant challenges faced by agriculture, par
 
 To view the presentation slides, simply navigate to the corresponding section above and read through the content provided.
 https://docs.google.com/document/d/1orx9vgg1B8V8BQ3QaCiTZ0Xo-eFWAxnh/edit?usp=drive_link&ouid=102564688153768475031&rtpof=true&sd=true
+
 https://drive.google.com/file/d/1VjWltetuIWKatTlKlozDo-nm2pzYKr9i/view?usp=drive_link
 
 ## Contributing
