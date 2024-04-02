@@ -1,6 +1,6 @@
 # Saarthi_HackwithIndia_TeamH14
 # Project Presentation
-
+## Built and Managed with ❤️ by TeamH14 © HackwWthIndia2024
 This repository contains the presentation content for our project, focused on revolutionizing plant disease detection and management in agriculture.
 
 ## Overview
